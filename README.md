@@ -1,4 +1,5 @@
 Learning-AS3
 ============
 
-as3 knowledge I learned
+AS3 Knowledge I Learned
+-----------------------
